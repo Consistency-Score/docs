@@ -1,2 +1,0 @@
-class Insight < ApplicationRecord
-end
