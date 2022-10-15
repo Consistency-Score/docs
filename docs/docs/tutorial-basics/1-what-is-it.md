@@ -4,8 +4,11 @@ sidebar_position: 1
 
 # What is ConsistencyScore.com? 
 
-Some skills need to be honed consistently in order for you to actually progress in them, or to become world class in them. 
-This is an open source project that allows people to once a day/week, input a consistency score as to how well they did. 
+Some skills need to be honed consistently in order for you to actually progress in them, or to become world class in them, especially in the 
+present age with proliferation of possible jobs, it pays to choose a 
+couple of things and to become fiendishly good at them. 
+
+This is an open source project that allows people to once a day/week, input a self-reported consistency score as to how well they did. 
 
 This is a way for you to publically or privately track your own consistency, with as much or as little consequences as you 
 would like.
